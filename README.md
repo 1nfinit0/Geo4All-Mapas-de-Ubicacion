@@ -18,7 +18,7 @@ Para esta sesión de trabajo, nos enfocaremos en el proceso de creación de un m
 ## Fuentes de Datos para los ejercicios
 
 - [Cartofy, Rios Perú](https://1nfinit0.github.io/cartofy/map-view/map.html?key=5) Líneas
-- [SENAMHI, Comerdores Populares a Nivel Nacional](https://idesep.senamhi.gob.pe/geoserver/midis/wms?service=WMS&version=1.1.0&request=GetMap&layers=midis:midis_05_01_cppn&styles=&bbox=-81.3805541992188,-18.441499710083,-68.6040496826172,0.0415000095963478&width=530&height=768&srs=EPSG:4326&format=application/openlayers) Puntos
+- [SENAMHI, CCPP Riesgo por Activación de Quebradas](https://idesep.senamhi.gob.pe/geoserver/g_acti_quebrada/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=g_acti_quebrada:ccpp_filter&maxFeatures=1000000&outputFormat=SHAPE-ZIP) Puntos
 - [Cartofy, Países de Sudamérica](https://1nfinit0.github.io/cartofy/map-view/map.html?key=6)
 - [Cartofy, Límite Nacional](https://1nfinit0.github.io/cartofy/map-view/map.html?key=1)
 - [Cartofy, Departamentos](https://1nfinit0.github.io/cartofy/map-view/map.html?key=2)
