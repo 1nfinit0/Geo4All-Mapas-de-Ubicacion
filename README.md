@@ -24,3 +24,4 @@ Para esta sesión de trabajo, nos enfocaremos en el proceso de creación de un m
 - [Cartofy, Departamentos](https://1nfinit0.github.io/cartofy/map-view/map.html?key=2)
 - [Cartofy, Provincias](https://1nfinit0.github.io/cartofy/map-view/map.html?key=3)
 - [Cartofy, Límites Distritales](https://1nfinit0.github.io/cartofy/map-view/map.html?key=4) Polígonos
+- [INEI, Cuencas Hidrográfcas](https://1nfinit0.github.io/cartofy/map-view/map.html?key=7)
